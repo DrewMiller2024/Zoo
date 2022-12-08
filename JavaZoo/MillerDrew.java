@@ -66,7 +66,7 @@ public class MillerDrew extends Animal {
      * @return Disposition
      */
     public String getDisposition() {
-        return "I can fly to catch flies. HAHA!!";
+        return "savage hunter";
     }
 
     /**
