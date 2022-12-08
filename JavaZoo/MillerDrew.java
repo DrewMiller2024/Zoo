@@ -5,7 +5,7 @@ public class MillerDrew extends Animal {
 
     public MillerDrew() {
         this.studentName = "MillerDrew";
-        this.color = "blue";
+        this.color = "green";
         this.legs = 10;
     }
 
@@ -75,7 +75,7 @@ public class MillerDrew extends Animal {
      * @return The type of the animal
      */
     public String getType() {
-        return "WingedGecko";
+        return "Winged Gecko";
     }
 
     /**
